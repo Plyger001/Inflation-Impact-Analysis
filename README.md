@@ -23,9 +23,10 @@ Explore any deviations from the expected PPP-based exchange rate to uncover othe
 
 ## Data Sources
 The analysis is based on publicly available data from:
-- [Insert relevant sources like World Bank, IMF, Reserve Bank of India, etc.]
-- Historical exchange rate trends sourced from [Insert source].
-- Inflation rate data compiled from [Insert source].
+- Historical exchange rate trends sourced from .
+- Inflation rate data compiled from .
+
+
 
 ## Contents
 The repository contains the following files:
