@@ -10,4 +10,5 @@ Trends of Exchanges rates and inflation rates
 
 Actual vs Expected rates
 
-https://github.com/Plyger001/Inflation-Impact-Analysis/blob/main/2.png?raw=true
+![image](https://github.com/user-attachments/assets/0878a51f-d5fe-499c-911c-6be8aaeac2dd)
+
