@@ -105,7 +105,7 @@ fig.update_yaxes(title_text="Inflation Rate (%)", row=3, col=1)
 
 fig.show()
 
-https://github.com/Plyger001/Inflation-Impact-Analysis/blob/01763242c113878319f91ad4b3ad1b8efce362bc/1.png
+
 
 
 # The exchange rate shows a general upward trend over the years, which indicates a depreciation of the Indian Rupee against the US Dollar. However, there are periods of both sharp increases and relative stability.
